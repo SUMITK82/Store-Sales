@@ -1,4 +1,4 @@
-# 🛒 Store Sales Analysis Dashboard (2024–2025)
+# 🛒 Store Sales Analysis Dashboard (2019–2020)
 
 A powerful Power BI dashboard that visualizes store sales data across multiple dimensions, enabling better business insights and decision-making for retail operations.
 
